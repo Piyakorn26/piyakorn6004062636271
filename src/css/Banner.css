@@ -1,0 +1,20 @@
+
+div.body.is-custom{
+  background-image:url("../img/bb.jpg");
+  opacity: 1;
+}
+.Title{
+  font-size: 67px;
+  letter-spacing: 10px;
+  color: rgb(255, 255, 255);
+  text-shadow: 0 0 20px #000000;
+}
+
+div.before{
+  background-image:url("../img/bb.jpg");
+  opacity: 1;
+}
+.Title{
+  font-size: 67px;
+  letter-spacing: 10px;
+}
